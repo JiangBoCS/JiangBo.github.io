@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Jiang (姜波)"
+title                    : "Bo Jiang"
 title_separator          : "-"
 name                     : &name "Bo Jiang (姜波)"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Bo Jiang"
+  avatar           : "Bo.png"
+  bio              : "School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen"
+  location         : #"Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bygVvUwAAAAJ&hl=zh-CN"
