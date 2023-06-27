@@ -2,7 +2,7 @@
 title: "Enhanced Frequency Fusion Network with Dynamic Hash Attention for image denoising"
 collection: publications
 permalink: /publication/2023-01-20-paper-title-number-1
-Abstract: 'This paper is about the number 1. The number 2 is left for future work.'
+Abstract: 'Bo Jiang, Jinxing Li, Huafeng Li, Ruxian Li, David Zhang, Guangming Lu.'
 date: 2023-01-20
 venue: 'Information Fusion'
 ---
