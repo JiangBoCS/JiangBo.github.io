@@ -4,10 +4,9 @@ collection: publications
 permalink: /publication/2023-01-20-paper-title-number-1
 Abstract: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-01-20
-venue: 'Journal 20'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'Information Fusion'
 ---
-[Paper](http://academicpages.github.io/files/paper1.pdf) | [Code](https://github.com/JiangBoCS/EFF-Net)
+[Paper](http://academicpages.github.io/files/paper1.pdf) \ [Code](https://github.com/JiangBoCS/EFF-Net)
 
 <div style="text-align: justify;">
 Recently, Transformer-based image denoising methods have achieved great progress in the image denoising task. However, these methods also lead to two problems: (a) Since noise can destroy texture or details in the image, the resulting tokens with low weight values may have a negative impact on the reconstructed denoised image (i.e., there are artifacts in the reconstructed image, etc); (b) Frequencies in different domains are ignored, leading to the missing of textural details in the reconstructed image. To this end, we propose an Enhanced Frequency Fusion Network (EFF-Net) with dynamic hash attention for image denoising, called EFF-Net. Specifically, to alleviate the impact of problem (a), we present the Dynamic Hash Attention (DHA) module, which aims to effectively mitigate the negative impact of tokens with low weight values on image denoising performance. Furthermore, we start from the frequency perspective and design the Enhanced Frequency Fusion (EFF) module with Decomposition Frequency (DF) as the core component, which aims to achieve the separation and fusion of noisy image content in the frequency domain, and appropriately reconstruct the image content of different frequency components at different locations. The DHA and EFF modules are integrated into plug-and-play Adaptive Frequency Enhancement (AFE) transformer blocks to selectively recover different frequencies based on long-range pixel dependency. The extensive experiments endorse the effective, and superior performance of our EFF-Net for image denoising.
