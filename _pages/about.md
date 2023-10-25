@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen Campus, under the guidance of Professor Guangming Lu. Here, my research focuses on computer vision, specifically deep learning, pattern recognition, behavior recognition, image fusion, and image denoising. Prior to this, I obtained my master's and bachelor's degrees from Northwest Agriculture and Forestry University, under the supervision of Professor Huaibo Song.
+Jiang Bo is a member of the China Society of Image and Graphics, a member of the Chinese Association for Artificial Intelligence, and serves as the Vice Chairman of the Shenzhen Computer Society chapter. He obtained his Ph.D. from the School of Computer Science and Technology at the Harbin Institute of Technology, Shenzhen Campus, under the guidance of Professor Lu Guangming. My research focuses on computer vision, particularly deep learning, pattern recognition, behavior recognition, image fusion, and image denoising. Prior to this, I earned my master's and bachelor's degrees from Northwest Agriculture and Forestry University, supervised by Professor Song Huaibo. He has been invited to serve as a reviewer for the **IEEE Trans.** series journals and **Elsevier** series journals.
 
 ### News:
+
+- 2023-09-14: *IEEE Transactions on Industrial Informatics* has accepted my paper titled **AGP-Net: Adaptive Graph Prior Network for Image Denoising**.
 
 - 2023-06-24: *IEEE Transactions on Systems, Man, and Cybernetics* has accepted my paper titled **Graph Attention in Attention Network for Image Denoising**.
 
@@ -25,4 +27,6 @@ I am currently a Ph.D. student at the School of Computer Science and Technology,
 - 2022-04-22: *Knowledge-Based Systems* has accepted my paper titled **Real Noise Image Adjustment Networks for Saliency-aware Stylistic Color Retouch**.
 
 - 2022-02-07: *IEEE Transactions on Circuits and Systems for Video Technology* has accepted my paper titled **Deep image denoising with adaptive priors**.
+
+- 2022-01-28: *Knowledge-Based Systems* has accepted my paper titled **Real noise image adjustment networks for saliency-aware stylistic color retouch**
 
