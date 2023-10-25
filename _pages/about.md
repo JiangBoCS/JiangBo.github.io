@@ -28,5 +28,3 @@ Jiang Bo is a member of the China Society of Image and Graphics, a member of the
 
 - 2022-02-07: *IEEE Transactions on Circuits and Systems for Video Technology* has accepted my paper titled **Deep image denoising with adaptive priors**.
 
-- 2022-01-28: *Knowledge-Based Systems* has accepted my paper titled **Real noise image adjustment networks for saliency-aware stylistic color retouch**
-
